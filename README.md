@@ -11,6 +11,8 @@ There is a Makefile in the Project2/ folder that will compile the program proper
 *   ```./sim gshare <M1 <N> <tracefile>``` for a gshare simulation,
 *   or ```./sim hybrid <K> <M1> <N> <M2> <tracefile>``` for a hybrid simulation.
 
+**DISCLAIMER:**  
+This code is my own original work. It may not be used, copied, or adapted by anyone currently taking this course or by future students for their own project submissions. Doing so would violate the course’s academic integrity policies, which the professor has clearly stated. This repository is publicly available solely for the purpose of showcasing my work to recruiters, interviewers, and potential employers.
 
 ## Analysis
 
